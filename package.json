@@ -1,0 +1,24 @@
+{
+  "name": "mundomascota",
+  "version": "1.0.0",
+  "description": "Tienda virtual de productos para mascotas",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeimipao1/MundoMascota.git"
+  },
+  "author": "Yeimi Navarrete",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeimipao1/MundoMascota/issues"
+  },
+  "homepage": "https://github.com/yeimipao1/MundoMascota#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mangosta": "^1.0.1"
+  }
+}
